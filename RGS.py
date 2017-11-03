@@ -23,12 +23,3 @@ for times in range(11):
     x=random.randint(-750,750)#Choosing a random number between -750 and 750.
     y=random.randint(-450,450)#Choosing a random number between -450 and 450.
     snowflake(t,x,y,red,green,blue)
-    
-
-
-
-
-
-
-
-
